@@ -87,7 +87,7 @@ cd AluraBooksProjetodeBusca
 <br>
 
 <h2>Licença 📄</h2>
-Este projeto é apenas para fins educacionais.
+Este projeto é apenas para fins educacionais. E você também pode acessar a plataforma por aqui: <a href="https://busca-com-java-script.vercel.app/">AluraBooks</a>
 
 <br>
 <br>
