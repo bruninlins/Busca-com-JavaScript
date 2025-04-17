@@ -86,6 +86,12 @@ cd AluraBooksProjetodeBusca
 
 <br>
 
+<h2>Licença 📄</h2>
+Este projeto é apenas para fins educacionais.
+
+<br>
+<br>
+
 <h2>Capturas de tela📷</h2>
 
 <br>
@@ -99,8 +105,3 @@ cd AluraBooksProjetodeBusca
 <div align="center">
 <img src="https://github.com/user-attachments/assets/009f8637-0e10-4eb5-9392-7b7e25796407"height="500">
 </div>
-
-<br>
-
-<h2>Licença 📄</h2>
-Este projeto é apenas para fins educacionais.
